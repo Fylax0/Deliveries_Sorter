@@ -1,0 +1,700 @@
+deliveryNumber: 0000000001
+{
+0000000001 deliveryWeight: 1,200
+0000000001 cityDistrict: D1
+0000000001 timeToDelivery: 29.10.2024 8:00:00
+}
+
+deliveryNumber: 0000000002
+{
+0000000002 deliveryWeight: 2,000
+0000000002 cityDistrict: D4
+0000000002 timeToDelivery: 29.10.2024 19:28:00
+}
+
+deliveryNumber: 0000000003
+{
+0000000003 deliveryWeight: 0,333
+0000000003 cityDistrict: D3
+0000000003 timeToDelivery: 29.10.2024 15:34:00
+}
+
+deliveryNumber: 0000000004
+{
+0000000004 deliveryWeight: 0,140
+0000000004 cityDistrict: D2
+0000000004 timeToDelivery: 29.10.2024 9:12:00
+}
+
+deliveryNumber: 0000000005
+{
+0000000005 deliveryWeight: 5,000
+0000000005 cityDistrict: D3
+0000000005 timeToDelivery: 29.10.2024 8:45:00
+}
+
+deliveryNumber: 0000000006
+{
+0000000006 deliveryWeight: 1,310
+0000000006 cityDistrict: D1
+0000000006 timeToDelivery: 29.10.2024 8:52:00
+}
+
+deliveryNumber: 0000000007
+{
+0000000007 deliveryWeight: 2,280
+0000000007 cityDistrict: D1
+0000000007 timeToDelivery: 29.10.2024 16:17:00
+}
+
+deliveryNumber: 0000000008
+{
+0000000008 deliveryWeight: 3,220
+0000000008 cityDistrict: D3
+0000000008 timeToDelivery: 29.10.2024 17:27:00
+}
+
+deliveryNumber: 0000000009
+{
+0000000009 deliveryWeight: 0,760
+0000000009 cityDistrict: D3
+0000000009 timeToDelivery: 29.10.2024 18:03:00
+}
+
+deliveryNumber: 0000000010
+{
+0000000010 deliveryWeight: 0,280
+0000000010 cityDistrict: D4
+0000000010 timeToDelivery: 29.10.2024 14:28:00
+}
+
+deliveryNumber: 0000000011
+{
+0000000011 deliveryWeight: 0,050
+0000000011 cityDistrict: D3
+0000000011 timeToDelivery: 29.10.2024 15:15:00
+}
+
+deliveryNumber: 0000000012
+{
+0000000012 deliveryWeight: 0,873
+0000000012 cityDistrict: D2
+0000000012 timeToDelivery: 29.10.2024 10:46:00
+}
+
+deliveryNumber: 0000000013
+{
+0000000013 deliveryWeight: 1,230
+0000000013 cityDistrict: D3
+0000000013 timeToDelivery: 29.10.2024 8:16:00
+}
+
+deliveryNumber: 0000000014
+{
+0000000014 deliveryWeight: 1,643
+0000000014 cityDistrict: D4
+0000000014 timeToDelivery: 29.10.2024 19:21:00
+}
+
+deliveryNumber: 0000000015
+{
+0000000015 deliveryWeight: 0,732
+0000000015 cityDistrict: D1
+0000000015 timeToDelivery: 29.10.2024 20:29:00
+}
+
+deliveryNumber: 0000000016
+{
+0000000016 deliveryWeight: 0,930
+0000000016 cityDistrict: D2
+0000000016 timeToDelivery: 29.10.2024 17:59:00
+}
+
+deliveryNumber: 0000000017
+{
+0000000017 deliveryWeight: 1,971
+0000000017 cityDistrict: D3
+0000000017 timeToDelivery: 29.10.2024 12:30:00
+}
+
+deliveryNumber: 0000000018
+{
+0000000018 deliveryWeight: 0,080
+0000000018 cityDistrict: D3
+0000000018 timeToDelivery: 29.10.2024 11:42:00
+}
+
+deliveryNumber: 0000000019
+{
+0000000019 deliveryWeight: 8,370
+0000000019 cityDistrict: D2
+0000000019 timeToDelivery: 29.10.2024 15:47:00
+}
+
+deliveryNumber: 0000000020
+{
+0000000020 deliveryWeight: 1,440
+0000000020 cityDistrict: D2
+0000000020 timeToDelivery: 29.10.2024 17:10:00
+}
+
+deliveryNumber: 0000000021
+{
+0000000021 deliveryWeight: 0,310
+0000000021 cityDistrict: D1
+0000000021 timeToDelivery: 29.10.2024 19:55:00
+}
+
+deliveryNumber: 0000000022
+{
+0000000022 deliveryWeight: 0,280
+0000000022 cityDistrict: D3
+0000000022 timeToDelivery: 29.10.2024 11:40:00
+}
+
+deliveryNumber: 0000000023
+{
+0000000023 deliveryWeight: 13,144
+0000000023 cityDistrict: D1
+0000000023 timeToDelivery: 29.10.2024 12:37:00
+}
+
+deliveryNumber: 0000000024
+{
+0000000024 deliveryWeight: 0,950
+0000000024 cityDistrict: D4
+0000000024 timeToDelivery: 29.10.2024 16:18:00
+}
+
+deliveryNumber: 0000000025
+{
+0000000025 deliveryWeight: 1,782
+0000000025 cityDistrict: D3
+0000000025 timeToDelivery: 29.10.2024 17:24:00
+}
+
+deliveryNumber: 0000000026
+{
+0000000026 deliveryWeight: 1,200
+0000000026 cityDistrict: D1
+0000000026 timeToDelivery: 29.10.2024 8:07:00
+}
+
+deliveryNumber: 0000000027
+{
+0000000027 deliveryWeight: 2,000
+0000000027 cityDistrict: D4
+0000000027 timeToDelivery: 29.10.2024 19:15:00
+}
+
+deliveryNumber: 0000000028
+{
+0000000028 deliveryWeight: 0,333
+0000000028 cityDistrict: D3
+0000000028 timeToDelivery: 29.10.2024 15:38:00
+}
+
+deliveryNumber: 0000000029
+{
+0000000029 deliveryWeight: 0,140
+0000000029 cityDistrict: D2
+0000000029 timeToDelivery: 29.10.2024 9:27:00
+}
+
+deliveryNumber: 0000000030
+{
+0000000030 deliveryWeight: 5,000
+0000000030 cityDistrict: D3
+0000000030 timeToDelivery: 29.10.2024 8:25:00
+}
+
+deliveryNumber: 0000000031
+{
+0000000031 deliveryWeight: 1,310
+0000000031 cityDistrict: D1
+0000000031 timeToDelivery: 29.10.2024 8:13:00
+}
+
+deliveryNumber: 0000000032
+{
+0000000032 deliveryWeight: 2,280
+0000000032 cityDistrict: D1
+0000000032 timeToDelivery: 29.10.2024 16:37:00
+}
+
+deliveryNumber: 0000000033
+{
+0000000033 deliveryWeight: 3,220
+0000000033 cityDistrict: D3
+0000000033 timeToDelivery: 29.10.2024 17:07:00
+}
+
+deliveryNumber: 0000000034
+{
+0000000034 deliveryWeight: 0,760
+0000000034 cityDistrict: D3
+0000000034 timeToDelivery: 29.10.2024 18:17:00
+}
+
+deliveryNumber: 0000000035
+{
+0000000035 deliveryWeight: 0,280
+0000000035 cityDistrict: D4
+0000000035 timeToDelivery: 29.10.2024 14:44:00
+}
+
+deliveryNumber: 0000000036
+{
+0000000036 deliveryWeight: 0,050
+0000000036 cityDistrict: D3
+0000000036 timeToDelivery: 29.10.2024 15:37:00
+}
+
+deliveryNumber: 0000000037
+{
+0000000037 deliveryWeight: 0,873
+0000000037 cityDistrict: D2
+0000000037 timeToDelivery: 29.10.2024 10:31:00
+}
+
+deliveryNumber: 0000000038
+{
+0000000038 deliveryWeight: 1,230
+0000000038 cityDistrict: D3
+0000000038 timeToDelivery: 29.10.2024 8:24:00
+}
+
+deliveryNumber: 0000000039
+{
+0000000039 deliveryWeight: 1,643
+0000000039 cityDistrict: D4
+0000000039 timeToDelivery: 29.10.2024 19:21:00
+}
+
+deliveryNumber: 0000000040
+{
+0000000040 deliveryWeight: 0,732
+0000000040 cityDistrict: D1
+0000000040 timeToDelivery: 29.10.2024 20:59:00
+}
+
+deliveryNumber: 0000000041
+{
+0000000041 deliveryWeight: 0,930
+0000000041 cityDistrict: D2
+0000000041 timeToDelivery: 29.10.2024 17:19:00
+}
+
+deliveryNumber: 0000000042
+{
+0000000042 deliveryWeight: 1,971
+0000000042 cityDistrict: D3
+0000000042 timeToDelivery: 29.10.2024 12:9:00
+}
+
+deliveryNumber: 0000000043
+{
+0000000043 deliveryWeight: 0,080
+0000000043 cityDistrict: D3
+0000000043 timeToDelivery: 29.10.2024 11:47:00
+}
+
+deliveryNumber: 0000000044
+{
+0000000044 deliveryWeight: 8,370
+0000000044 cityDistrict: D2
+0000000044 timeToDelivery: 29.10.2024 15:53:00
+}
+
+deliveryNumber: 0000000045
+{
+0000000045 deliveryWeight: 1,440
+0000000045 cityDistrict: D2
+0000000045 timeToDelivery: 29.10.2024 17:01:00
+}
+
+deliveryNumber: 0000000046
+{
+0000000046 deliveryWeight: 0,310
+0000000046 cityDistrict: D1
+0000000046 timeToDelivery: 29.10.2024 19:07:00
+}
+
+deliveryNumber: 0000000047
+{
+0000000047 deliveryWeight: 0,280
+0000000047 cityDistrict: D3
+0000000047 timeToDelivery: 29.10.2024 11:04:00
+}
+
+deliveryNumber: 0000000048
+{
+0000000048 deliveryWeight: 13,144
+0000000048 cityDistrict: D1
+0000000048 timeToDelivery: 29.10.2024 12:23:00
+}
+
+deliveryNumber: 0000000049
+{
+0000000049 deliveryWeight: 0,950
+0000000049 cityDistrict: D4
+0000000049 timeToDelivery: 29.10.2024 16:51:00
+}
+
+deliveryNumber: 0000000050
+{
+0000000050 deliveryWeight: 1,782
+0000000050 cityDistrict: D3
+0000000050 timeToDelivery: 29.10.2024 17:48:00
+}
+
+deliveryNumber: 0000000051
+{
+0000000051 deliveryWeight: 1,200
+0000000051 cityDistrict: D1
+0000000051 timeToDelivery: 29.10.2024 8:17:00
+}
+
+deliveryNumber: 0000000052
+{
+0000000052 deliveryWeight: 2,000
+0000000052 cityDistrict: D4
+0000000052 timeToDelivery: 29.10.2024 19:22:00
+}
+
+deliveryNumber: 0000000053
+{
+0000000053 deliveryWeight: 0,333
+0000000053 cityDistrict: D3
+0000000053 timeToDelivery: 29.10.2024 15:58:00
+}
+
+deliveryNumber: 0000000054
+{
+0000000054 deliveryWeight: 0,140
+0000000054 cityDistrict: D2
+0000000054 timeToDelivery: 29.10.2024 9:34:00
+}
+
+deliveryNumber: 0000000055
+{
+0000000055 deliveryWeight: 5,000
+0000000055 cityDistrict: D3
+0000000055 timeToDelivery: 29.10.2024 8:55:00
+}
+
+deliveryNumber: 0000000056
+{
+0000000056 deliveryWeight: 1,310
+0000000056 cityDistrict: D1
+0000000056 timeToDelivery: 29.10.2024 8:12:00
+}
+
+deliveryNumber: 0000000057
+{
+0000000057 deliveryWeight: 2,280
+0000000057 cityDistrict: D1
+0000000057 timeToDelivery: 29.10.2024 16:52:00
+}
+
+deliveryNumber: 0000000058
+{
+0000000058 deliveryWeight: 3,220
+0000000058 cityDistrict: D3
+0000000058 timeToDelivery: 29.10.2024 17:42:00
+}
+
+deliveryNumber: 0000000059
+{
+0000000059 deliveryWeight: 0,760
+0000000059 cityDistrict: D3
+0000000059 timeToDelivery: 29.10.2024 18:13:00
+}
+
+deliveryNumber: 0000000060
+{
+0000000060 deliveryWeight: 0,280
+0000000060 cityDistrict: D4
+0000000060 timeToDelivery: 29.10.2024 14:39:00
+}
+
+deliveryNumber: 0000000061
+{
+0000000061 deliveryWeight: 0,050
+0000000061 cityDistrict: D3
+0000000061 timeToDelivery: 29.10.2024 15:38:00
+}
+
+deliveryNumber: 0000000062
+{
+0000000062 deliveryWeight: 0,873
+0000000062 cityDistrict: D2
+0000000062 timeToDelivery: 29.10.2024 10:42:00
+}
+
+deliveryNumber: 0000000063
+{
+0000000063 deliveryWeight: 1,230
+0000000063 cityDistrict: D3
+0000000063 timeToDelivery: 29.10.2024 8:41:00
+}
+
+deliveryNumber: 0000000064
+{
+0000000064 deliveryWeight: 1,643
+0000000064 cityDistrict: D4
+0000000064 timeToDelivery: 29.10.2024 19:37:00
+}
+
+deliveryNumber: 0000000065
+{
+0000000065 deliveryWeight: 0,732
+0000000065 cityDistrict: D1
+0000000065 timeToDelivery: 29.10.2024 20:16:00
+}
+
+deliveryNumber: 0000000066
+{
+0000000066 deliveryWeight: 0,930
+0000000066 cityDistrict: D2
+0000000066 timeToDelivery: 29.10.2024 17:53:00
+}
+
+deliveryNumber: 0000000067
+{
+0000000067 deliveryWeight: 1,971
+0000000067 cityDistrict: D3
+0000000067 timeToDelivery: 29.10.2024 12:24:00
+}
+
+deliveryNumber: 0000000068
+{
+0000000068 deliveryWeight: 0,080
+0000000068 cityDistrict: D3
+0000000068 timeToDelivery: 29.10.2024 11:41:00
+}
+
+deliveryNumber: 0000000069
+{
+0000000069 deliveryWeight: 8,370
+0000000069 cityDistrict: D2
+0000000069 timeToDelivery: 29.10.2024 15:26:00
+}
+
+deliveryNumber: 0000000070
+{
+0000000070 deliveryWeight: 1,440
+0000000070 cityDistrict: D2
+0000000070 timeToDelivery: 29.10.2024 17:53:00
+}
+
+deliveryNumber: 0000000071
+{
+0000000071 deliveryWeight: 0,310
+0000000071 cityDistrict: D1
+0000000071 timeToDelivery: 29.10.2024 19:13:00
+}
+
+deliveryNumber: 0000000072
+{
+0000000072 deliveryWeight: 0,280
+0000000072 cityDistrict: D3
+0000000072 timeToDelivery: 29.10.2024 11:24:00
+}
+
+deliveryNumber: 0000000073
+{
+0000000073 deliveryWeight: 13,144
+0000000073 cityDistrict: D1
+0000000073 timeToDelivery: 29.10.2024 12:25:00
+}
+
+deliveryNumber: 0000000074
+{
+0000000074 deliveryWeight: 0,950
+0000000074 cityDistrict: D4
+0000000074 timeToDelivery: 29.10.2024 16:26:00
+}
+
+deliveryNumber: 0000000075
+{
+0000000075 deliveryWeight: 1,782
+0000000075 cityDistrict: D3
+0000000075 timeToDelivery: 29.10.2024 17:43:00
+}
+
+deliveryNumber: 00000000076
+{
+00000000076 deliveryWeight: 1,200
+00000000076 cityDistrict: D1
+00000000076 timeToDelivery: 29.10.2024 8:14:00
+}
+
+deliveryNumber: 0000000077
+{
+0000000077 deliveryWeight: 2,000
+0000000077 cityDistrict: D4
+0000000077 timeToDelivery: 29.10.2024 19:12:00
+}
+
+deliveryNumber: 0000000078
+{
+0000000078 deliveryWeight: 0,333
+0000000078 cityDistrict: D3
+0000000078 timeToDelivery: 29.10.2024 15:21:00
+}
+
+deliveryNumber: 0000000079
+{
+0000000079 deliveryWeight: 0,140
+0000000079 cityDistrict: D2
+0000000079 timeToDelivery: 29.10.2024 9:32:00
+}
+
+deliveryNumber: 0000000080
+{
+0000000080 deliveryWeight: 5,000
+0000000080 cityDistrict: D3
+0000000080 timeToDelivery: 29.10.2024 8:54:00
+}
+
+deliveryNumber: 0000000081
+{
+0000000081 deliveryWeight: 1,310
+0000000081 cityDistrict: D1
+0000000081 timeToDelivery: 29.10.2024 8:25:00
+}
+
+deliveryNumber: 0000000082
+{
+0000000082 deliveryWeight: 2,280
+0000000082 cityDistrict: D1
+0000000082 timeToDelivery: 29.10.2024 16:26:00
+}
+
+deliveryNumber: 0000000083
+{
+0000000083 deliveryWeight: 3,220
+0000000083 cityDistrict: D3
+0000000083 timeToDelivery: 29.10.2024 17:38:00
+}
+
+deliveryNumber: 0000000084
+{
+0000000084 deliveryWeight: 0,760
+0000000084 cityDistrict: D3
+0000000084 timeToDelivery: 29.10.2024 18:41:00
+}
+
+deliveryNumber: 0000000085
+{
+0000000085 deliveryWeight: 0,280
+0000000085 cityDistrict: D4
+0000000085 timeToDelivery: 29.10.2024 14:37:00
+}
+
+deliveryNumber: 0000000086
+{
+0000000086 deliveryWeight: 0,050
+0000000086 cityDistrict: D3
+0000000086 timeToDelivery: 29.10.2024 15:31:00
+}
+
+deliveryNumber: 0000000087
+{
+0000000087 deliveryWeight: 0,873
+0000000087 cityDistrict: D2
+0000000087 timeToDelivery: 29.10.2024 10:12:00
+}
+
+deliveryNumber: 0000000088
+{
+0000000088 deliveryWeight: 1,230
+0000000088 cityDistrict: D3
+0000000088 timeToDelivery: 29.10.2024 8:32:00
+}
+
+deliveryNumber: 0000000089
+{
+0000000089 deliveryWeight: 1,643
+0000000089 cityDistrict: D4
+0000000089 timeToDelivery: 29.10.2024 19:57:00
+}
+
+deliveryNumber: 0000000090
+{
+0000000090 deliveryWeight: 0,732
+0000000090 cityDistrict: D1
+0000000090 timeToDelivery: 29.10.2024 20:51:00
+}
+
+deliveryNumber: 0000000091
+{
+0000000091 deliveryWeight: 0,930
+0000000091 cityDistrict: D2
+0000000091 timeToDelivery: 29.10.2024 17:42:00
+}
+
+deliveryNumber: 0000000092
+{
+0000000092 deliveryWeight: 1,971
+0000000092 cityDistrict: D3
+0000000092 timeToDelivery: 29.10.2024 12:29:00
+}
+
+deliveryNumber: 0000000093
+{
+0000000093 deliveryWeight: 0,080
+0000000093 cityDistrict: D3
+0000000093 timeToDelivery: 29.10.2024 11:28:00
+}
+
+deliveryNumber: 0000000094
+{
+0000000094 deliveryWeight: 8,370
+0000000094 cityDistrict: D2
+0000000094 timeToDelivery: 29.10.2024 15:36:00
+}
+
+deliveryNumber: 0000000095
+{
+0000000095 deliveryWeight: 1,440
+0000000095 cityDistrict: D2
+0000000095 timeToDelivery: 29.10.2024 17:14:00
+}
+
+deliveryNumber: 0000000096
+{
+0000000096 deliveryWeight: 0,310
+0000000096 cityDistrict: D1
+0000000096 timeToDelivery: 29.10.2024 19:37:00
+}
+
+deliveryNumber: 0000000097
+{
+0000000097 deliveryWeight: 0,280
+0000000097 cityDistrict: D3
+0000000097 timeToDelivery: 29.10.2024 11:23:00
+}
+
+deliveryNumber: 0000000098
+{
+0000000098 deliveryWeight: 13,144
+0000000098 cityDistrict: D1
+0000000098 timeToDelivery: 29.10.2024 12:47:00
+}
+
+deliveryNumber: 0000000099
+{
+0000000099 deliveryWeight: 0,950
+0000000099 cityDistrict: D4
+0000000099 timeToDelivery: 29.10.2024 16:46:00
+}
+
+deliveryNumber: 0000000100
+{
+0000000100 deliveryWeight: 1,782
+0000000100 cityDistrict: D3
+0000000100 timeToDelivery: 29.10.2024 17:07:00
+}
+
